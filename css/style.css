@@ -1,0 +1,38 @@
+.color-letra{
+    color: white;
+}
+
+body{
+    background-color: black;
+
+}
+
+
+section{
+    margin: 4rem;
+
+}
+
+.p{
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    margin: 4rem;
+
+}
+
+.mainform{
+    margin: 4rem;
+
+}
+
+
+@media screen and (max-width:900px){
+
+    .carteleria{
+        display: inline-block;
+
+    }
+}
+
